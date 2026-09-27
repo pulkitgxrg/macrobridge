@@ -2,7 +2,7 @@
 
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue)
 
-![macrobridge](https://socialify.git.ci/pulkitgarg04/macrobridge/image?language=1&name=1&owner=1&theme=Dark)
+![macrobridge](https://socialify.git.ci/pulkitgxrg/macrobridge/image?language=1&name=1&owner=1&theme=Dark)
 
 A powerful automation platform that connects webhooks, email notifications, and Solana blockchain integration.
 
@@ -26,7 +26,7 @@ Ensure the following tools are installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pulkitgarg04/macrobridge.git
+   git clone https://github.com/pulkitgxrg/macrobridge.git
    cd macrobridge
    ```
 
